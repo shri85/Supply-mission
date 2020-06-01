@@ -1,2 +1,1 @@
-# Supply-mission
-project
+# SupplyMission
